@@ -17,8 +17,12 @@ namespace ReverseString
       {
         Console.Write( "Reversed using a simple loop: " );
         Console.WriteLine( reverse.Rev(line) );
-        Console.Write( "Reversed using recursion:  " );
+
+        Console.Write( "Reversed using recursion: " );
         Console.WriteLine( reverse.RecursiveRev(line) );
+
+        Console.Write("Reversing a sentence: ");
+        Console.WriteLine( reverse.ReverseSentence(line) );
 
         line = Console.ReadLine();
       }
