@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2010\Projects\ReverseString\ReverseString\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\ReverseString\ReverseString\bin\Debug\ReverseString.exe
+c:\users\admin\documents\visual studio 2010\Projects\ReverseString\ReverseString\bin\Debug\ReverseString.pdb
+c:\users\admin\documents\visual studio 2010\Projects\ReverseString\ReverseString\obj\x86\Debug\ReverseString.exe
+c:\users\admin\documents\visual studio 2010\Projects\ReverseString\ReverseString\obj\x86\Debug\ReverseString.pdb
